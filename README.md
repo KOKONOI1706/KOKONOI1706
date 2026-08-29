@@ -98,7 +98,7 @@
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution-Active-2ea44f?logo=github&style=for-the-badge" alt="Contribution activity badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOKONOI1706" alt="Contribution activity graph" width="90%" />
 </p>
 
 <p align="center">
