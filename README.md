@@ -98,7 +98,7 @@
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOKONOI1706" alt="Contribution activity graph" width="90%" />
+  ![Github Activity Graph](<github-readme-activity-graph-silk-theta.vercel.app>/graph?username=<KOKONOI1706>)
 </p>
 
 <p align="center">
