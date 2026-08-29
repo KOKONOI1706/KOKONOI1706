@@ -92,19 +92,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/KOKONOI1706?style=for-the-badge" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/KOKONOI1706?style=for-the-badge" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/commit-activity/m/KOKONOI1706?style=for-the-badge" alt="GitHub commit activity" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOKONOI1706" alt="GitHub streak stats" height="170" />
 </p>
 
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOKONOI1706&hide_border=true&area=true" alt="Contribution activity graph" width="90%" />
+  <img src="https://img.shields.io/badge/Contribution-Active-2ea44f?logo=github&style=for-the-badge" alt="Contribution activity badge" />
 </p>
 
 <p align="center">
