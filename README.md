@@ -92,8 +92,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOKONOI1706&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOKONOI1706&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://img.shields.io/github/stars/KOKONOI1706?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/KOKONOI1706?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/commit-activity/m/KOKONOI1706?style=for-the-badge" alt="GitHub commit activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOKONOI1706" alt="GitHub streak stats" height="170" />
 </p>
 
 <h2 align="center">Activity</h2>
