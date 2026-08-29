@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-art.svg" alt="Profile banner" width="100%" />
+  <img src="./assets/f29f7af6b35e675f2902acd33c7c6e17.jpg" alt="Profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Công</h1>
