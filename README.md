@@ -1,36 +1,65 @@
 # Nguyen Duy Cong
 
-Software Engineer | Backend · Full-stack · System Design · AI
+**Software Engineer · System Design · Full-stack · AI**
 
-Final-year Software Engineering student at FPT University. I build web applications across backend, frontend, databases, and system design, with a particular interest in turning business requirements into working software.
+I build software from requirements to implementation — backend services, web applications, data models, and AI-powered workflows.
 
-### Stack
+My main interests are where **engineering, product thinking, and business rules** meet.
 
-`Java` `Spring Boot` `Spring MVC` `Node.js` `React` `Next.js` `TypeScript` `PostgreSQL` `MySQL` `SQL Server` `Supabase` `Elasticsearch`
+---
 
-### What I enjoy building
+## Featured Work
 
-- Backend services and REST APIs
-- Full-stack applications and transactional workflows
-- Business rules and system workflows
-- Database and system design
-- AI-powered applications and RAG workflows
+### EV Charging Station Management System
 
-### Selected Work
+Full-stack platform for charging stations, reservations, payments, authentication, and operational management.
 
-**EV Charging Station Management System**  
-Full-stack platform covering authentication, charging stations, reservations, payments, and operational workflows. Team Lead / Full-stack Developer.
+**Role:** Team Lead · System Design · Backend · Frontend · Database
 
-**SkillSwap Hub**  
-Java web application for peer-to-peer skill exchange, with user profiles, skills, exchange requests, ratings, and notifications.
+[View project](https://github.com/KOKONOI1706/EV-Charging-Station-Management-System-BE)
 
-**AI Applications**  
-Experiments with conversational applications, RAG-based user support, and AI API integration.
+### FU Charging Marketplace
 
-### Direction
+Marketplace concept for students to buy and sell used goods within the university community, with identity, moderation, reservation, and deposit workflows.
 
-Interested in **Software Engineering, Backend, Full-stack Development, and System Analysis**. Long term, I want to grow into a **Development Lead** who can connect business requirements, system design, and engineering execution.
+**Focus:** Business Rules · Requirements · System Design · Full-stack
 
-### Links
+[View project](https://github.com/KOKONOI1706/fu-swap-spot)
 
-[LinkedIn](https://www.linkedin.com/in/công-nguyễn-duy-b939b3299) · [Portfolio](https://github.com/KOKONOI1706) · nguyenduycongtm@gmail.com
+### Aetheris AI
+
+AI-powered requirements analysis workspace exploring requirement quality, semantic comparison, traceability, UML modeling, and AI-assisted review.
+
+**Focus:** AI · Requirements Engineering · Product Thinking
+
+---
+
+## Engineering
+
+```text
+Backend       Java · Spring Boot · Node.js · REST APIs
+Frontend      React · Next.js · TypeScript
+Data          PostgreSQL · MySQL · SQL Server · Supabase · Elasticsearch
+Architecture  System Design · UML · Database Design · Business Rules
+AI            LLM APIs · RAG · AI Agents · AI-assisted Development
+```
+
+---
+
+## How I Think
+
+`Requirements → Business Rules → System Design → Implementation → Iteration`
+
+I care about understanding **why** a system works the way it does, not only how to implement it.
+
+---
+
+## Current Focus
+
+Backend architecture · Full-stack systems · Requirements Engineering · AI-powered software
+
+**Long-term:** Development Lead
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/công-nguyễn-duy-b939b3299) · [GitHub](https://github.com/KOKONOI1706) · [Email](mailto:nguyenduycongtm@gmail.com)
